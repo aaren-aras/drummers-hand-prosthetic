@@ -11,5 +11,5 @@ Our EMG-powered hand prosthetic is designed to empower amputee musicians, partic
 This project is licensed under the MIT License, which means you're free to use, modify, and distribute the code and designs.
 
 ## Contact
-For questions, feedback, or collaborations, feel free to reach out to the project maintainer at your.email@example.com.
+For questions, feedback, or collaborations, feel free to reach out to the project maintainer at aaren.aras@uwaterloo.ca or w56chan@uwaterloo.ca
 
