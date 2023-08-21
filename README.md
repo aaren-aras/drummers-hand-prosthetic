@@ -1,6 +1,5 @@
 # Drummer's Hand Prosthetic 
-
-Welcome!
+_Welcome!_
 
 ## Abstract
 Our **hand prosthetic** is designed to empower amputee musicians, particularly drummers, with a tool to enhance their musical expression and performance. By harnessing the strength of their forearm flex, this technology enables them to control the movement of a drumstick. 
