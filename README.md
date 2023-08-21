@@ -13,8 +13,8 @@ At the core lies an electromyography (EMG) system that detects and interprets th
 </div>
 
 ## License
-This project is licensed under the ==MIT License==, which means you're free to use, modify, and distribute the code and designs.
+This project is licensed under the Apache License (V2.0). See the `LICENSE` file for more details. 
 
 ## Contact
-For questions, feedback, or collaborations, feel free to reach out to the project maintainer at aaren.aras@uwaterloo.ca or w56chan@uwaterloo.ca
+For questions, feedback, or collaborations, feel free to reach out to the project maintainers at aaren.aras@uwaterloo.ca or w56chan@uwaterloo.ca.
 
