@@ -5,7 +5,7 @@ Our **hand prosthetic** is designed to empower amputee musicians, particularly d
 
 <div align="center" style="text-align: center">
     <img width="50%" src="visuals.png" alt="Visuals">
-    <p><small>Left to right: Rough SOLIDWORKS assembly, dimetric view, side view.</small></p>
+    <p>Left to right: Rough SOLIDWORKS assembly, dimetric view, side view.</p>
 </div>
 
 ## License
