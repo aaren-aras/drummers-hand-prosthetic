@@ -1,4 +1,4 @@
-# Drummer's Hand Prosthetic v2
+# Drummer's Hand Prosthetic MKII
 
 Control a 3D printed mechanical hand with buttons or EMG signals.  
 Each finger corresponds to a drumstick. EMG signal strength maps to finger/drumstick movement.
