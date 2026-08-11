@@ -1,0 +1,25 @@
+# Build Artifacts & Binaries (Ignore all compiled outputs)
+[Dd]ebug/
+[Rr]elease/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.su
+*.d
+*.srec
+*.list
+
+# Local IDE & User-Specific Settings
+.metadata/
+.settings/
+**/*.launch
+**/*.cfg
+.clangd/
+compile_commands.json
+
+# Source-Controlled IDE Configurations 
+!.project
+!.cproject
+!.mxproject
